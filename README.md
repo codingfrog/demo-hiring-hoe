@@ -1,4 +1,4 @@
-# Ask Bosco VP Engineering Assessment
+# Acme VP Engineering Assessment
 ## Redesigned for 2025+: AI-Era Leadership Evaluation
 
 Welcome to the Ask Bosco VP Engineering technical assessment. This assessment is designed to evaluate your ability to **lead engineering teams in an AI-assisted world** - testing judgment, validation skills, and leadership rather than coding from scratch.
